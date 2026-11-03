@@ -1,16 +1,58 @@
-## Hi there 👋
+ Étudiant en première année de BTS CIEL – Option A (Informatique et Réseaux).
 
-<!--
-**rayyan-elmiloudi/rayyan-elmiloudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionné par l'informatique, les réseaux et les nouvelles technologies, je développe progressivement mes compétences à travers mes cours, mes travaux pratiques et mes projets personnels.
+🧑‍💻 À propos de moi
 
-Here are some ideas to get you started:
+    🎓 Formation : BTS CIEL – Option A
+    📚 Année : Première année
+    🌐 Domaine : Informatique et réseaux
+    🔍 En apprentissage : Administration réseau, systèmes informatiques et cybersécurité.
+    🚀 Objectif : Développer mes compétences et réaliser des projets concrets dans le domaine informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Mes compétences
+Langages et programmation
+### 💻 Langages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🖥️ Systèmes et réseaux
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+    
+    
+
+Informatique et réseaux
+
+    Configuration réseau
+    Adressage IP
+    Protocoles réseau
+    Linux et Windows
+    Virtualisation
+
+(Compétences en cours d'acquisition)
+📂 Mes projets
+
+Tu retrouveras ici différents projets réalisés pendant ma formation :
+
+    📁 Travaux pratiques en informatique
+    🌐 Projets de configuration réseau
+    💻 Scripts et programmes
+    🔧 Projets personnels
+
+📈 Mes objectifs
+
+    Approfondir mes connaissances en informatique.
+    Améliorer mes compétences en programmation.
+    Maîtriser l'administration des réseaux.
+    Découvrir davantage la cybersécurité.
+    Construire un portfolio de projets sur GitHub.
+
+📫 Me contacter
+
+    GitHub : Mon profil GitHub
+
+⭐ Merci de visiter mon profil GitHub !
