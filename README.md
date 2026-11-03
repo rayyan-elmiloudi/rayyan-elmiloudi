@@ -3,12 +3,6 @@
 💻 Passionné par l'informatique, les réseaux et les nouvelles technologies, je développe progressivement mes compétences à travers mes cours, mes travaux pratiques et mes projets personnels.
 🧑‍💻 À propos de moi
 
-    🎓 Formation : BTS CIEL – Option A
-    📚 Année : Première année
-    🌐 Domaine : Informatique et réseaux
-    🔍 En apprentissage : Administration réseau, systèmes informatiques et cybersécurité.
-    🚀 Objectif : Développer mes compétences et réaliser des projets concrets dans le domaine informatique.
-
 🛠️ Mes compétences
 Langages et programmation
 ### 💻 Langages
@@ -22,6 +16,17 @@ Langages et programmation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+   
+    
+    
+    
+    
+    🎓 Formation : BTS CIEL – Option A
+    📚 Année : Première année
+    🌐 Domaine : Informatique et réseaux
+    🔍 En apprentissage : Administration réseau, systèmes informatiques et cybersécurité.
+    🚀 Objectif : Développer mes compétences et réaliser des projets concrets dans le domaine informatique.
     
     
 
@@ -53,6 +58,6 @@ Tu retrouveras ici différents projets réalisés pendant ma formation :
 
 📫 Me contacter
 
-    GitHub : Mon profil GitHub
+    GitHub : rayyan-elmiloudi
 
 ⭐ Merci de visiter mon profil GitHub !
